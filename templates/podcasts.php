@@ -1,0 +1,1 @@
+<? $session->redirect($config->urls->admin); ?>
