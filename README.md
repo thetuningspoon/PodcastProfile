@@ -1,4 +1,4 @@
-#ProcessWire Podcast Profile
+#Podcast Profile for ProcessWire
 
 Podcast feed generation/publishing profile for the ProcessWire CMS
 
