@@ -16,7 +16,7 @@ Manage your podcasting with ProcessWire! The Podcast Profile is a fully featured
  
 4. The XML file for each podcast is generated at http://www.yoursite.com/podcast-name/ (The url of the podcast page)
  
-5. Use this URL to submit the podcast to iTunes at https://phobos.apple.../publishPodcast
+5. Use this URL to submit the podcast to iTunes at https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast
 
 -----
 
