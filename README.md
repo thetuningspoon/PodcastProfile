@@ -1,6 +1,6 @@
 #Podcast Profile for ProcessWire
 
-Podcast feed generation/publishing profile for the ProcessWire CMS
+Podcast feed generation/publishing platform for the ProcessWire CMS
 
 ## About the Podcast Profile
 
