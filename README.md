@@ -8,15 +8,21 @@ Manage your podcasting with ProcessWire! The Podcast Profile is a fully featured
 
 ## Instructions
 
-1. Upload a fresh copy of ProcessWire to your server and extract the folder from the zip file to the root directory of the new installation. Install ProcessWire as usual. When asked to select a site profile, choose "Podcast Profile".
+1. Upload a fresh copy of ProcessWire to your server.
+
+2. Extract the PodcastProfile-master folder from the zip file to the root directory of the new installation. 
+
+3. Rename the folder to site-PodcastProfile <- IMPORTANT!
+
+4. Install ProcessWire as usual. When asked to select a site profile, choose "Podcast Profile".
  
-2. Once installed, you can add a new Podcast via the "Add New" menu in the upper right portion of the admin panel.
+5. Once installed, you can add a new Podcast via the "Add New" menu in the upper right portion of the admin panel.
  
-3. Fill out the podcast details and then begin adding episodes under the podcast page, or via the "Add New" menu.
+6. Fill out the podcast details and then begin adding episodes under the podcast page, or via the "Add New" menu.
  
-4. The XML file for each podcast is generated at http://www.yoursite.com/podcast-name/ (The url of the podcast page)
+7. The XML file for each podcast is generated at http://www.yoursite.com/podcast-name/ (The url of the podcast page)
  
-5. Use this URL to submit the podcast to iTunes at https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast
+8. Use this URL to submit the podcast to iTunes at https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast
 
 -----
 
